@@ -1,19 +1,19 @@
-# Моя Програма
+# My Program
 
-Це моя програма, яка використовує Flask для створення API.
+This is my program that utilizes Flask to create an API.
 
-## Як запустити
+## How to Run
 
-1. **Інсталюйте залежності:**
-   Використовуйте `pip install -r requirements.txt` для встановлення всіх необхідних бібліотек.
+1. **Install Dependencies:**
+   Use `pip install -r requirements.txt` to install all the necessary libraries.
 
-2. **Запустіть програму:**
-   Запустіть файл `app.py` для запуску сервера Flask.
+2. **Run the Program:**
+   Execute the `app.py` file to start the Flask server.
 
-3. Отримайте доступ до API:
-    Після запуску програми ви зможете звертатися до API за адресою:
-    http://127.0.0.1:5000/api/v1/hello-world-9
-    Ви отримаєте відповідь у форматі JSON з повідомленням "Hello World 9".
+3. Access the API:
+   After running the program, you can access the API at:
+   http://127.0.0.1:5000/api/v1/hello-world-9
+   You will receive a JSON response with the message "Hello World 9".
 
-4. Зупиніть сервер:
-    Щоб зупинити сервер Flask, просто натисніть Ctrl+C у вікні терміналу.
+4. Stop the Server:
+   To stop the Flask server, simply press Ctrl+C in the terminal window.
